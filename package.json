@@ -1,0 +1,22 @@
+{
+  "name": "pg-advisary-lock-check",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "18.11.12",
+    "prettier": "^2.8.1",
+    "typescript": "^4.9.4",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "slonik": "^31.0.4"
+  }
+}
